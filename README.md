@@ -34,8 +34,7 @@ Currently building my own **OS kernel (Nexis)** in Rust 🦀 as part of my priva
 ---
 
 ## 🌊 Commit Waves
-![Waves](https://github.com/c0mr4de-laugh4l0t/c0mr4de-laugh4l0t/blob/output/waves-dark.svg)
-
+![Waves](https://raw.githubusercontent.com/c0mr4de-laugh4l0t/c0mr4de-laugh4l0t/output/waves-dark.svg)
 ---
 
 ## 🚀 Featured Project
