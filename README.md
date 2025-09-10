@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 # 💫 About Me
-Hi! I'm **Maida Jama**, a 17-year-old low-level programmer pursuing **Astrodynamics Software Engineering**.  
+Hi! I'm a 17-year-old low-level programmer pursuing **Astrodynamics Software Engineering**.  
 I’m the creator of **Nexis** (a custom kernel) and **IronVeil** (a Rust-based privacy OS).  
 I love exploring operating systems, compilers, and systems-level programming.
 
