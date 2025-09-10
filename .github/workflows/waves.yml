@@ -2,7 +2,7 @@ name: Generate Waves Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -35,4 +35,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          external_repository: c0mr4de-laugh4l0t/c0mr4de-laugh4l0t-
           commit_message: "Update Waves Animation [skip ci]"
+
