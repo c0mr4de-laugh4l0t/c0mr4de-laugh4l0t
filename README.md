@@ -3,9 +3,9 @@
 
 <!-- Introduction -->
 # 💫 About Me
-Hi! I'm a 17-year-old low-level programmer.  
-I’m the creator of **Nexis** (a custom kernel) and **IronVeil** (a Rust-based privacy OS).  
-I love exploring operating systems, compilers, and systems-level programming.
+Hi! I'm a 18-year-old low-level programmer.  
+I’m the creator of **Nexis** (a custom kernel), the islamic AI app TurathAI and **IronVeil** (a Rust-based privacy OS).  
+I love exploring operating systems, compilers, and systems-level programming. 
 
 - 🌱 Currently learning: Rust, low-level OS dev, and kernel design.  
 - 👨🏻‍💻 Working on: **Nexis** + **IronVeil**
